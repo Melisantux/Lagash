@@ -1,0 +1,11 @@
+C:\Users\melanies\Meli\Funciones 22052019\obj\Debug\netcoreapp2.2\Funciones 22052019.csprojAssemblyReference.cache
+C:\Users\melanies\Meli\Funciones 22052019\obj\Debug\netcoreapp2.2\Funciones 22052019.csproj.CoreCompileInputs.cache
+C:\Users\melanies\Meli\Funciones 22052019\obj\Debug\netcoreapp2.2\Funciones 22052019.AssemblyInfoInputs.cache
+C:\Users\melanies\Meli\Funciones 22052019\obj\Debug\netcoreapp2.2\Funciones 22052019.AssemblyInfo.cs
+C:\Users\melanies\Meli\Funciones 22052019\bin\Debug\netcoreapp2.2\Funciones 22052019.deps.json
+C:\Users\melanies\Meli\Funciones 22052019\bin\Debug\netcoreapp2.2\Funciones 22052019.runtimeconfig.json
+C:\Users\melanies\Meli\Funciones 22052019\bin\Debug\netcoreapp2.2\Funciones 22052019.runtimeconfig.dev.json
+C:\Users\melanies\Meli\Funciones 22052019\bin\Debug\netcoreapp2.2\Funciones 22052019.dll
+C:\Users\melanies\Meli\Funciones 22052019\bin\Debug\netcoreapp2.2\Funciones 22052019.pdb
+C:\Users\melanies\Meli\Funciones 22052019\obj\Debug\netcoreapp2.2\Funciones 22052019.dll
+C:\Users\melanies\Meli\Funciones 22052019\obj\Debug\netcoreapp2.2\Funciones 22052019.pdb

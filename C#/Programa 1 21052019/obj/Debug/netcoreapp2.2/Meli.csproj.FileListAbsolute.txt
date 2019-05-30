@@ -1,0 +1,22 @@
+C:\Users\melanies\Meli\obj\Debug\netcoreapp2.2\Meli.csprojAssemblyReference.cache
+C:\Users\melanies\Meli\obj\Debug\netcoreapp2.2\Meli.csproj.CoreCompileInputs.cache
+C:\Users\melanies\Meli\obj\Debug\netcoreapp2.2\Meli.AssemblyInfoInputs.cache
+C:\Users\melanies\Meli\obj\Debug\netcoreapp2.2\Meli.AssemblyInfo.cs
+C:\Users\melanies\Meli\bin\Debug\netcoreapp2.2\Meli.deps.json
+C:\Users\melanies\Meli\bin\Debug\netcoreapp2.2\Meli.runtimeconfig.json
+C:\Users\melanies\Meli\bin\Debug\netcoreapp2.2\Meli.runtimeconfig.dev.json
+C:\Users\melanies\Meli\bin\Debug\netcoreapp2.2\Meli.dll
+C:\Users\melanies\Meli\bin\Debug\netcoreapp2.2\Meli.pdb
+C:\Users\melanies\Meli\obj\Debug\netcoreapp2.2\Meli.dll
+C:\Users\melanies\Meli\obj\Debug\netcoreapp2.2\Meli.pdb
+C:\Users\melanies\Meli\Programa 1 21052019\bin\Debug\netcoreapp2.2\Meli.deps.json
+C:\Users\melanies\Meli\Programa 1 21052019\bin\Debug\netcoreapp2.2\Meli.runtimeconfig.json
+C:\Users\melanies\Meli\Programa 1 21052019\bin\Debug\netcoreapp2.2\Meli.runtimeconfig.dev.json
+C:\Users\melanies\Meli\Programa 1 21052019\bin\Debug\netcoreapp2.2\Meli.dll
+C:\Users\melanies\Meli\Programa 1 21052019\bin\Debug\netcoreapp2.2\Meli.pdb
+C:\Users\melanies\Meli\Programa 1 21052019\obj\Debug\netcoreapp2.2\Meli.csprojAssemblyReference.cache
+C:\Users\melanies\Meli\Programa 1 21052019\obj\Debug\netcoreapp2.2\Meli.csproj.CoreCompileInputs.cache
+C:\Users\melanies\Meli\Programa 1 21052019\obj\Debug\netcoreapp2.2\Meli.AssemblyInfoInputs.cache
+C:\Users\melanies\Meli\Programa 1 21052019\obj\Debug\netcoreapp2.2\Meli.AssemblyInfo.cs
+C:\Users\melanies\Meli\Programa 1 21052019\obj\Debug\netcoreapp2.2\Meli.dll
+C:\Users\melanies\Meli\Programa 1 21052019\obj\Debug\netcoreapp2.2\Meli.pdb
